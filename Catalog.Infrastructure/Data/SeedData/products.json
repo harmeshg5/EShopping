@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Name": "Product1",
+    "Summary": "This is the summary for Product1.",
+    "Description": "Detailed description of Product1.",
+    "ImageFile": "product1.jpg",
+    "Brands": {
+      "Id": "24d2gf34bf234veee234422",
+      "Name": "Adidas"
+    },
+    "Types": {
+      "Id": "resw3223bf234veee234422",
+      "Name": "Shoe"
+    },
+    "Price": 29.99
+  },
+  {
+    "Id": 2,
+    "Name": "Product2",
+    "Summary": "Summary for Product2.",
+    "Description": "Description of Product2.",
+    "ImageFile": "product2.jpg",
+    "Brands": {
+      "Id": "2343434bf234veee234422",
+      "Name": "Victor"
+    },
+    "Types": {
+      "Id": "resw3223bf234veee234422",
+      "Name": "Shoe"
+    },
+    "Price": 49.99
+  },
+  {
+    "Id": 3,
+    "Name": "Product3",
+    "Summary": "Product3 summary.",
+    "Description": "Detailed description for Product3.",
+    "ImageFile": "product3.jpg",
+    "Brands": {
+      "Id": "ed433f234veee234422",
+      "Name": "Puma"
+    },
+    "Types": {
+      "Id": "resw3223bf234veee234422",
+      "Name": "Shoe"
+    },
+    "Price": 79.99
+  }
+]
